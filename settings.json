@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "LightXSMP07.aternos.me",
+    "port": ,
     "version": "1.21.1"
   },
   "position": {
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 50,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
